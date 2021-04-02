@@ -7,9 +7,7 @@
 
 <!-- badges: end -->
 
-In this package we use \[T-rex Runner\]
-(<https://github.com/wayou/t-rex-runner>) Game. It has two variants -
-`corona` and `dinosaur`.
+In this shiny package we use [T-rex Runner](https://github.com/wayou/t-rex-runner) Game. It has two variants - `corona` and `dinosaur` which you can add in your shiny app.
 
 ## Installation
 
