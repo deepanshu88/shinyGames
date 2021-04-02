@@ -9,6 +9,11 @@
 
 In this shiny package we use [T-rex Runner](https://github.com/wayou/t-rex-runner) Game. It has two variants - `corona` and `dinosaur` which you can add in your shiny app.
 
+![corona](../main/inst/corona-runner.gif)
+
+
+![Dinosaur](../main/inst/dino.gif)
+
 ## Installation
 
 You can install the released version of shinyGames from GitHub with:
